@@ -1,10 +1,10 @@
-# 🥞 Enkel Recept Landningssida: Perfekta Pannkakor
+# Enkel Recept Landningssida: Perfekta Pannkakor
 
 Detta är en enkel landningssida, byggd med ren HTML och CSS, baserad på en Figma-design för att presentera ett klassiskt pannkaksrecept. Projektet fokuserar på grundläggande webbdesignprinciper, semantisk HTML-struktur och responsiv layout med Flexbox och Media Queries.
 
 ---
 
-## 🚀 Funktioner
+## Funktioner
 
 * **Semantisk HTML5-struktur:** Använder `<header>`, `<main>`, `<section>`, `<h2>`, `<ul>` och `<ol>` för tydlig innehållshierarki.
 * **Moderna CSS-tekniker:** Använder `display: flex` för gallerilayouten (Serveringsförslag).
