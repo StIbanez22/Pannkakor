@@ -13,7 +13,7 @@ Detta är en enkel landningssida, byggd med ren HTML och CSS, baserad på en Fig
 
 ---
 
-## 📂 Projektstruktur
+## Projektstruktur
 
 pannkaks-recept/
 ├── index.html          # Huvuddokumentet med sidans innehåll och struktur
